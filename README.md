@@ -103,5 +103,5 @@ In HSV mode: 0 = Hue, 1 = Saturation, 2 = Value
 1. **Clone this repository** into your local machine using the following command:
 
    ```bash
-   git clone https://github.com/supipivirajini96-maker/Computer-Vision---Assignment-1---st126489.git
+   git clone https://github.com/supipivirajini96-maker/Computer-Vision-Assignment-1-st126489.git
 
