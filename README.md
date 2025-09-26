@@ -105,3 +105,7 @@ In HSV mode: 0 = Hue, 1 = Saturation, 2 = Value
    ```bash
    git clone https://github.com/supipivirajini96-maker/Computer-Vision-Assignment-1-st126489.git
 
+   ```
+2. Check app.py and trex_model.obj avaiable in the same repository
+3. In terminal, run the command "python app.py"
+
